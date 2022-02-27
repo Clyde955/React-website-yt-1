@@ -11,13 +11,13 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/img-9.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              text='Explore the hidden waterfall deep inside the Cape Town jungles'
               label='Adventure'
               path='/services'
             />
             <CardItem
               src='/images/img-2.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              text='Experience the luxurious apartments, restaurants and hotels '
               label='Luxury'
               path='/services'
             />
@@ -31,13 +31,13 @@ function Cards() {
             />
             <CardItem
               src='/images/img-4.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
+              text='Experience quadbiking in the sand dunes'
               label='Adventure'
               path='/products'
             />
             <CardItem
               src='/images/img-8.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
+              text='Go skydiving and ziplining.'
               label='Adrenaline'
               path='/sign-up'
             />
