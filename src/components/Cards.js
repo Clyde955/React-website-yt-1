@@ -16,7 +16,7 @@ function Cards() {
               path='/services'
             />
             <CardItem
-              src='/images/img-2.jpg'
+              src='/images/LUX.jpg'
               text='Experience the luxurious apartments, restaurants and hotels '
               label='Luxury'
               path='/services'
@@ -30,13 +30,13 @@ function Cards() {
               path='/services'
             />
             <CardItem
-              src='/images/img-4.jpg'
+              src='/images/QB2.jpg'
               text='Experience quadbiking in the sand dunes'
               label='Adventure'
               path='/products'
             />
             <CardItem
-              src='/images/img-8.jpg'
+              src='/images/SKYD.jpg'
               text='Go skydiving and ziplining.'
               label='Adrenaline'
               path='/sign-up'
